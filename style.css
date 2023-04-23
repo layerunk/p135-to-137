@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+
+h4{
+    color: rgb(24, 95, 153);
+    font-family: 'Rajdhani', sans-serif;
+    margin-right: 70px;
+}
+
+#title{
+    font-family: 'Poltawski Nowy', serif;
+    font-size: 50px;
+}
+
+#start{
+    margin-top: 20px;
+    margin-right: 70px;
+    background-color: rgba(61,152,210,255);
+    border: none;
+    font-family: 'Laila', sans-serif;
+}
+
+input{
+    font-family: 'Poltawski Nowy', serif;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+}
